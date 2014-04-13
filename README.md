@@ -4,7 +4,7 @@
 
 ## Installation
 
-Before you proceed on [ProcessWire install](https://github.com/ryancramerdesign/ProcessWire#installation) replace the `install` and `templates` folders inside `site-default`.
+Before you proceed on [ProcessWire install](https://github.com/ryancramerdesign/ProcessWire#installation) replace the `install` and `templates` folders from this reposity to `site-default`.
 
 ## License
 
