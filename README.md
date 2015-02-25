@@ -6,7 +6,7 @@ PW-H5BP is based on ProcessWire site-blank default profile and keeps up to date 
 
 ## Installation
 
-Extract the content from this repository to your web root along with [ProcessWire](https://github.com/ryancramerdesign/ProcessWire) and proceed to [installation](https://github.com/ryancramerdesign/ProcessWire#installation). When prompted for *Site Installation Profile* select *HTML5 Boilerplate* from dropdown menu and follow the install instructions.
+Extract the content from this repository to your web root along with [ProcessWire](https://github.com/ryancramerdesign/ProcessWire) and proceed to [installation](https://github.com/ryancramerdesign/ProcessWire#installation). When prompted for **Site Installation Profile** select **HTML5 Boilerplate** from dropdown menu and follow the install instructions.
 
 ## License
 
