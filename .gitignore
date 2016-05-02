@@ -2,4 +2,6 @@
 \.*
 
 # except do not ignore .gitignore
+!.gitkeep
 !.gitignore
+!.gitattributes

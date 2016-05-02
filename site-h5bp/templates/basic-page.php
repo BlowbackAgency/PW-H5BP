@@ -22,8 +22,8 @@
 		<!-- Add your site or application content here -->
 		<?php echo "{$page->body}\n"; ?>
 
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-		<script>window.jQuery || document.write('<script src="<?php echo $config->urls->templates; ?>js/vendor/jquery-1.11.3.min.js"><\/script>')</script>
+		<script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+		<script>window.jQuery || document.write('<script src="<?php echo $config->urls->templates; ?>js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
 		<script src="<?php echo $config->urls->templates; ?>js/plugins.js"></script>
 		<script src="<?php echo $config->urls->templates; ?>js/main.js"></script>
 
