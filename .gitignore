@@ -1,7 +1,7 @@
-# ignore any files beginning with .
+# ignore all dotfiles
 \.*
 
-# except do not ignore .gitignore
+# except these git related...
 !.gitkeep
 !.gitignore
 !.gitattributes

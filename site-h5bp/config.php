@@ -1,4 +1,4 @@
-<?php
+<?php namespace ProcessWire;
 
 /**
  * ProcessWire Configuration File
@@ -8,16 +8,16 @@
  * Please see the file /wire/config.php which contains all configuration options you may
  * specify here. Simply copy any of the configuration options from that file and paste
  * them into this file in order to modify them.
- * 
+ *
  * SECURITY NOTICE
  * In non-dedicated environments, you should lock down the permissions of this file so
  * that it cannot be seen by other users on the system. For more information, please
  * see the config.php section at: https://processwire.com/docs/security/file-permissions/
  *
- * ProcessWire 2.x
- * Copyright (C) 2015 by Ryan Cramer
- * This file licensed under Mozilla Public License v2.0 (http://mozilla.org/MPL/2.0/)
+ * This file is licensed under the MIT license
+ * https://processwire.com/about/license/mit/
  *
+ * ProcessWire 3.x, Copyright 2016 by Ryan Cramer
  * https://processwire.com
  *
  */
@@ -25,6 +25,8 @@
 if(!defined("PROCESSWIRE")) die();
 
 /*** SITE CONFIG *************************************************************************/
+
+/** @var Config $config */
 
 /**
  * Enable debug mode?
@@ -40,4 +42,3 @@ $config->debug = false;
 
 
 /*** INSTALLER CONFIG ********************************************************************/
-
