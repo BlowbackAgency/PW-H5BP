@@ -2,6 +2,5 @@
 \.*
 
 # except these git related...
-!.gitkeep
 !.gitignore
 !.gitattributes
