@@ -1,7 +1,7 @@
-<?php namespace ProcessWire; 
+<?php namespace ProcessWire;
 
-// Template file for pages using the “basic-page” template
-// -------------------------------------------------------
+// Template file for “http-404” template used by the Not Found page
+// ----------------------------------------------------------------
 // The #content div in this file will replace the #content div in _main.php
 // when the Markup Regions feature is enabled, as it is by default. 
 // You can also append to (or prepend to) the #content div, and much more. 
@@ -14,5 +14,5 @@
 
 <div id="content">
 	<h1><?= $page->title ?></h1>
-	<p>Hello world! This is HTML5 Boilerplate.</p>
+	<p>Sorry, but the page you were trying to view does not exist.</p>
 </div>
